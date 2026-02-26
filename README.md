@@ -1,3 +1,4 @@
-# Hi 👋, I'm Rupendra ! its my Website-Preview
+# Hi 👋, I'm Anurag Gangwar! its my Website-Preview
 
-![image](https://github.com/RupendraSinghRajawat/RupendraSinghRajawat.github.io/assets/99586119/894d1b37-fdb5-4612-b0c3-1d1f8067a836)
+![image](<img width="1910" height="935" alt="image" src="https://github.com/user-attachments/assets/e7881822-89b2-409a-9de0-135a099459e1") />
+
